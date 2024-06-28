@@ -1,6 +1,10 @@
 {
   "name": "next14_discord_clone",
-  "version": "0.1.0",
+  "author": {
+    "name": "Hamdi Rahal",
+    "email": "hamdirahal@gmail.com"
+  },
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
